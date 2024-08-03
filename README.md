@@ -2,7 +2,7 @@
 I'm a Front-End Developer!
 
 
-## Skills
+## ⚒️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,6 +25,9 @@ I'm a Front-End Developer!
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jeein-0805&show_icons=true&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jeein-0805&layout=compact&theme=dracula)
+<br/>
 
 <!--
 **dev-jeein-0805/dev-jeein-0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
