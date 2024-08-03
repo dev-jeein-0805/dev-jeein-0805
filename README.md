@@ -25,8 +25,12 @@ I'm a Front-End Developer!
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jeein-0805&show_icons=true&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jeein-0805&layout=compact&theme=dracula)
+## 👩‍🦰 About me
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-jeein-0805&show_icons=true&theme=omni" alt="Anurag's GitHub stats" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jeein-0805&layout=compact&theme=dracula" alt="Top Languages" height="200"/>
+</p>
 <br/>
 
 <!--
